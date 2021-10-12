@@ -8,6 +8,8 @@
 
 Caso haja pessoas empenhadas em me ajudar no meu aprendizado, ficarei grata!
 
+Meu objetivo é trabalhar na área de TI.
+
 
 <!---
 IvanaOliveira/IvanaOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
